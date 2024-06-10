@@ -3,7 +3,6 @@
 ![image](https://github.com/Laislacerds/IA/assets/112042523/4dfa3bce-e3fb-4a7f-a2e2-4d0d16c7fbb3)
 
 
-
 ## Descrição
 Este projeto envolve o desenvolvimento de um chatbot para a Accenture, projetado para facilitar a interação dos usuários com documentações de software. O chatbot permite que os usuários façam upload de documentações e, em seguida, responde a perguntas sobre as funcionalidades descritas nesses documentos. Essa ferramenta visa melhorar a acessibilidade e a compreensão das documentações técnicas, proporcionando respostas rápidas e precisas às consultas dos usuários.
 
@@ -47,7 +46,7 @@ Você deverá ver a versão do Git instalada no seu sistema.
 - Envie um pull request para revisão.
 
 ## Agradecimentos
-Agradecemos à equipe de desenvolvimento e aos colaboradores por seu trabalho neste projeto.
+Agradecemos à equipe de desenvolvimento.
 
 ## Contato
 Se tiver alguma dúvida ou sugestão, entre em contato com a equipe de desenvolvimento.
