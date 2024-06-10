@@ -1,4 +1,4 @@
-# Chatbot para Consulta de Documentação de Software
+# Chatbot Accenture
 
 ![image](https://github.com/Laislacerds/IA/assets/112042523/4dfa3bce-e3fb-4a7f-a2e2-4d0d16c7fbb3)
 
